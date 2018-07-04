@@ -10,5 +10,6 @@
 #define CSLibrary_h
 
 #import "CSFile.h"
+#import "NSObject+FileManager.h"
 
 #endif /* CSLibrary_h */
