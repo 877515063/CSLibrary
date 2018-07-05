@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CSLibrary"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "CSLibrary is a public library managed by CocoaPods."
   s.homepage     = "https://github.com/877515063/CSLibrary"
   s.license      = "MIT"
